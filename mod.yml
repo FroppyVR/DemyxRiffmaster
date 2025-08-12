@@ -1,0 +1,14 @@
+title: Riffmaster Demyx
+originalAuthor: Froppy
+game: kh2
+description: Replaces Demyx guitar with the Riffmaster
+assets:
+- name: obj/B_EX120_HB.mdlx
+  multi:
+  - name: obj/B_EX120.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX120_HB.mdlx
+    
+    
+    
